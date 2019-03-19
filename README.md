@@ -1,3 +1,3 @@
 # CountDownFlash
 
-![description](https://github.com/tyGavinZJU/CountDownFlash/tree/master/resources/1.png)
+![avatar](https://github.com/tyGavinZJU/CountDownFlash/raw/master/resources/1.png)
